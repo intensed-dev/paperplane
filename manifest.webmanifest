@@ -1,0 +1,9 @@
+{
+  "name": "Paperplane",
+  "short_name": "Paperplane",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "A fast, mobile-first photo editor by Intensed-Dev."
+}
